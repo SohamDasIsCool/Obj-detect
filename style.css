@@ -1,0 +1,23 @@
+.heading
+{
+font-size: 20px;
+width:95%;
+}
+body{
+background-size:cover;
+}
+button{
+    width:10%;
+}
+canvas{
+    box-shadow:gray 10px 10px 10px;
+    border:solid 3px rgb(80, 80, 80);
+    border-radius:10px;
+}
+div{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+}
