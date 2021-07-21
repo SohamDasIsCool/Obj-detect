@@ -10,6 +10,7 @@ button{
     width:10%;
 }
 canvas{
+    margin-top: 30px;
     box-shadow:gray 10px 10px 10px;
     border:solid 3px rgb(80, 80, 80);
     border-radius:10px;
